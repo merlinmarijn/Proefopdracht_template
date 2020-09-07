@@ -4,9 +4,8 @@ Hier komt een korte beschrijving van de proefopdracht. Wat heb je precies gedaan
 ## Features
 Wanneer je een specifiek onderdeel wilt uitlichten kun je dat in deze sectie benoemen.
 
-- [Awesome Algoritme](link)
-- [Specifieke Mechanic](link)
-- [Iets unieks waar je trots op bent binnen de project](link)
+- Lan Gamemode (Hardline Connection)
+- Multiplayer (Matchmaking, lobbies)
 
 ## Leerdoelen 
 Wat wil je bereiken met dit project? Formuleer dit kort, krachtig en haalbaar.
